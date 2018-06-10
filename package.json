@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "dicordbot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avon1/esp8266bot.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Avon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avon1/esp8266bot/issues"
+  },
+  "homepage": "https://github.com/Avon1/esp8266bot#readme"
+}
